@@ -64,7 +64,8 @@ To develop a machine learning pipeline that can accurately identify and classify
 
 ## 🖼️ Project Thumbnail
 
-![Project Thumbnail](./thumbnail.png)
+<img width="1024" height="1024" alt="ChatGPT Image Aug 2, 2025, 06_56_30 PM" src="https://github.com/user-attachments/assets/cf29bcd8-080d-4e29-980a-1364cf4f6b32" />
+
 
 ---
 
@@ -88,5 +89,10 @@ credit_card_fraud.ipynb (for Jupyter)
 ## ✨ Author
 ---
 Suraj Singh
+
+
 Aspiring Data Analyst | Python & ML Enthusiast
+
+
+
 📍 Rudraprayag, Uttarakhand | 🎓 Dev Bhoomi University
