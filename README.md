@@ -78,7 +78,7 @@ To develop a machine learning pipeline that can accurately identify and classify
 
 ## Run the notebook or Python script
 ---
-credit_card_fraud.ipynb (for Jupyter)
+    credit_card_fraud.ipynb (for Jupyter)
 ---
 ## Download the dataset from Kaggle and place creditcard.csv in the working directory.
 ---
